@@ -21,17 +21,22 @@ I have, however, made a number of minor contributions to other public repositori
 
 # Notable Works
 
-- ## [gmsv_visinfo](https://github.com/piqey/gmsv_visinfo)
+## Programming
+
+- ### [gmsv_visinfo](https://github.com/piqey/gmsv_visinfo)
   - A binary module for _Garry's Mod_ that provides an intuitive interface for the game's Lua API to interact with the Source engine's [visibility-related engine functions](https://developer.valvesoftware.com/wiki/PVS) (via direct function calls).
-- ## [zs_blastdoors_v6_fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3334799436)&nbsp;&nbsp;![Steam Views](https://img.shields.io/steam/views/3334799436?logo=steam&color=black)&nbsp;&nbsp;![Steam Downloads](https://img.shields.io/steam/downloads/3334799436?logo=steam&color=black)
+
+## Level Design / Mapping
+
+- ### [zs_blastdoors_v6_fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3334799436)&nbsp;&nbsp;![Steam Views](https://img.shields.io/steam/views/3334799436?logo=steam&color=black)&nbsp;&nbsp;![Steam Downloads](https://img.shields.io/steam/downloads/3334799436?logo=steam&color=black)
   - A classic _Garry's Mod_ map created for the popular gamemode _Zombie Survival_ that I **remastered** with HDR lighting, new textures (including normal maps and self-shadowed bump maps), new specular lighting, original sound effects, etc., that I all personally made.
-  - ### New Room (not in the original)
+  - #### New Room (not in the original)
     - ![New Room (not in the original)](https://github.com/user-attachments/assets/b4ffcbdb-4274-48f9-9895-7c9aa64f11ed)
-  - ### Before & After
+  - #### Before & After
     - ![download_5_shrink](https://github.com/user-attachments/assets/8dd71339-1709-4c33-b2aa-63aec3550751)![download_4_shrink](https://github.com/user-attachments/assets/3672a479-fce6-4400-9dfe-046fba7ede33)![download_3_shrink](https://github.com/user-attachments/assets/d621ff90-4909-4ac8-bdcc-9bd4607df9ae)![download_2_shrink](https://github.com/user-attachments/assets/65d37e2b-47b4-481e-a751-afdffc23c020)![download_1_shrink](https://github.com/user-attachments/assets/52c1c86c-3e7d-498e-936f-e6da17ce2715)
-- ## [_Dirty Deeds_&nbsp;🥈 (_VAULTMAPS: XEN INFESTATION_)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165416138)&nbsp;&nbsp;![Steam Views](https://img.shields.io/steam/views/2165416138?logo=steam&color=black)
+- ### [_Dirty Deeds_&nbsp;🥈 (_VAULTMAPS: XEN INFESTATION_)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165416138)&nbsp;&nbsp;![Steam Views](https://img.shields.io/steam/views/2165416138?logo=steam&color=black)
   - **Second place 🥈 prize-winning submission** for the very first _Half-Life: Alyx_ **VaultMaps** mapping competition.
-  - At the time this competition began, _Half-Life: Alyx_'s modding tools had only been released for about two weeks, and the competition was scheduled to run for just under a month (June 7th — July 5th, 2020). I had even less time to complete mine as I was leaving on a family vacation about a week and a half before the contest concluded, so I had to hand it off to a friend before it was complete so that he could give the very end of the level the finishing touches that were needed and create an abrupt but passable ending to the level, making it an acceptable submission for the contest.
+  - At the time this competition began, _Half-Life: Alyx_'s modding tools had only been released for about two weeks, and the competition was scheduled to run for just under a month (June 7th – July 5th, 2020). I had even less time to complete mine as I was leaving on a family vacation about a week and a half before the contest concluded, so I had to hand it off to a friend before it was complete so that he could give the very end of the level the finishing touches that were needed and create an abrupt but passable ending to the level, making it an acceptable submission for the contest.
     - [My recorded playthrough (early build)](https://youtu.be/goM9iE0AWg4)
     - [Another person's recorded plathrough](https://youtu.be/l70LEIj-2Ms) (chance encounter of mine on YouTube)
   - If I were to make a similar level nowadays, I would do so much different. The level ended up as it did because of the time constraint and the fact that nobody knew anything about the tools we'd by that point had access to for only two weeks. Following Dirty Deeds, I could and did make much better content, but unfortunately nothing I ever released. For that reason, I may amend these writings with an **_"Unfinished Works"_** section.
