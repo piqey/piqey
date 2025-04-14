@@ -10,6 +10,8 @@
 
 **Unfortunately,** _most_ of my work is private or otherwise unsharable, so the list of works below will be short.
 
+I have, however, made a number of minor contributions to other public repositories in the form **Pull Requests** and **Issues**. Assuming GitHub's profile page layout hasn't been updated as of my writing, you ought to be able to see a timeline of any public contributions I've made by scrolling down below.
+
 ## Notable Works
 
 - ### [gmsv_visinfo](https://github.com/piqey/gmsv_visinfo)
