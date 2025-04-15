@@ -13,6 +13,8 @@ I do programming, level design, environment art, sound engineering and other dig
 
 Later on, I found that I was able to quickly intuit the way new things I'd never had any prior experiences with worked and operated upon my first encounter with them just by knowing other basic principles. I quickly learned that earning an understanding of those basic principles as building blocks through years of trial and error without really understanding why granted me an immeasurable amount of power when it came to building superior systems from the ground up.
 
+I didn't come back to level design (or environment art) until around 2018–2019 (I had done some rudimentary "mapping" in Source's Hammer editor when I was 12 or 13), but at the time it was only a brief obsession. Upon the release of _Half-Life: Alyx_ I found a new interest in it, and something appeared to click for me that had not in the past. I believe experience and understanding in programming helps a lot with level design, as it allows the designer to make jumps in reasoning that artists would otherwise be unable to. But I also think that there was a lack of tangibility to what exactly it was that clicked for me, to a degree I'll never quite be able to fully grasp. 
+
 ## The Page
 
 Unfortunately, _most_ of my work is private or otherwise unsharable, so the list of works below will be short.
