@@ -31,6 +31,12 @@ My activity with the group ended when I decided to focus my attention on my scho
 
 # Notable Works
 
+#### YouTube Playlists • _Portfolio Work_
+
+[Source Engine Mapping Teasers](https://www.youtube.com/playlist?list=PLmSsIj8Qx6sdPFhXbKhKOFzos3DSS6St0)<br />
+[Source Engine Mapping Timelapses](https://www.youtube.com/playlist?list=PLmSsIj8Qx6seNeKwSVd02Ub7getGbzenq)<br />
+[Source 2 Mapping Teasers](https://www.youtube.com/playlist?list=PLmSsIj8Qx6sco7kfPE4G4cOPngeEbHk9E)
+
 ## Programming
 
 - ### [gmsv_visinfo](https://github.com/piqey/gmsv_visinfo)
