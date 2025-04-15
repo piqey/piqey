@@ -19,6 +19,14 @@ Unfortunately, _most_ of my work is private or otherwise unsharable, so the list
 
 I have, however, made a number of minor contributions to other public repositories in the form **Pull Requests** and **Issues**. Assuming GitHub's profile page layout hasn't been updated as of my writing, you ought to be able to see a timeline of any public contributions I've made by scrolling down below.
 
+# Past Affiliations
+
+## [Eagle One](https://eagleone.dev/) • Game Programmer
+
+From about June 2021 to 2022, I was a programmer with _Eagle One_, a group of developers making content for _Half-Life: Alyx_ and _s&box_. At the time I was most active in the group, we were working on a symmetrical multiplayer game which still has not been released, where I was responsible for creating several systems pertaining to multiplayer play.
+
+My activity with the group ended when I decided to focus my attention on my schooling.
+
 # Notable Works
 
 ## Programming
