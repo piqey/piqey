@@ -35,7 +35,8 @@ My activity with the group ended when I decided to focus my attention on my scho
 
 [Source Engine Mapping Teasers](https://www.youtube.com/playlist?list=PLmSsIj8Qx6sdPFhXbKhKOFzos3DSS6St0)<br />
 [Source Engine Mapping Timelapses](https://www.youtube.com/playlist?list=PLmSsIj8Qx6seNeKwSVd02Ub7getGbzenq)<br />
-[Source 2 Mapping Teasers](https://www.youtube.com/playlist?list=PLmSsIj8Qx6sco7kfPE4G4cOPngeEbHk9E)
+[Source 2 Mapping Teasers](https://www.youtube.com/playlist?list=PLmSsIj8Qx6sco7kfPE4G4cOPngeEbHk9E)<br />
+[Programming Showcase](https://youtube.com/playlist?list=PLmSsIj8Qx6se-oSr8rlhetTwPZRqiPjEt&si=h31JEiOCHozbEmNG) (not too comprehensive)
 
 ## Programming
 
