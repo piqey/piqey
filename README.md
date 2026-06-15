@@ -11,14 +11,6 @@
 
 I'm a multidisciplinary digital artist specializing in programming, level design, environment art, and sound engineering.
 
-My journey began at 12 when I first dabbled in code—by 18, I moved beyond following tutorials and began architecting my own systems.
-
-Over the years, I developed an intuitive grasp of new tools and workflows, using fundamental principles I honed through trial and error to build robust solutions from the ground up.
-
-My earliest forays into mapping with Valve's Source Engine resurfaced in 2018–2019, but it wasn't until the release of _Half-Life: Alyx_'s modding tools—and later exploring similar pursuits in _s&box_—that everything clicked. This experience solidified my passion for immersive world-building and refined my approach to environment art.
-
-Drawing from these experiences, I leverage my programming expertise to inform my design choices, blending technical logic with creative vision.
-
 ## The Page
 
 Unfortunately, _most_ of my work is private or otherwise unsharable, so the list of works below will be short. If you want to see more visual content, please see the **YouTube Playlists** section below, or visit my [LinkedIn](https://www.linkedin.com/in/piqey/).
